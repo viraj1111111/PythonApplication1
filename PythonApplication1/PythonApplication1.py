@@ -1,0 +1,10 @@
+print ("hello")
+person=input("what is ur name")
+print ("hello",person)
+feel=input("how are u feeling")
+print ("u are feeling ",feel)
+print ("BYE")
+gg=input("say bye")
+print ("u said ",gg)
+print ("bye ")
+        
